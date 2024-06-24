@@ -67,7 +67,7 @@
     "eslint": "^8.7.0",
     "jest": "^27.4.0",
     "libxmljs2": "^0.29.0",
-    "nodemon": "^2.0.15"
+    "nodemon": "^3.1.4"
   },
   "jest": {
     "testEnvironment": "node",
